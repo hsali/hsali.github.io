@@ -40,17 +40,9 @@ Lead Data Engineer at ADIB, Abu Dhabi, UAE.
 `2010-2014`
 __International Islamic University Islamabad, Pakistan.__
 
+- Bachelor of Electronic Engineer
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
+## Achievements
 
 `2012`
 President, *Royal Society*, London, UK
@@ -58,10 +50,13 @@ President, *Royal Society*, London, UK
 Associate, *French Academy of Science*, Paris, France
 
 
+*	Building a real-time streaming pipeline using Apache Kafka and Spark to ingest and process millions of rows per day from multiple sources, enabling faster and more accurate analytics and reporting.
+*	I designed and built scalable data frameworks using Spark and Python. This reduced the data processing time by 80%, and the storage cost by 70% compared to the previous solution.
+*	Developed an order processing module to faster process by 10 times.
+*	Digitization of warehouse and classical store to the online store.
+*	Graduated with Bachelor's Degree with fully funded Scholarships.
 
-## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
@@ -73,10 +68,6 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
