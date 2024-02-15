@@ -46,14 +46,11 @@ Lead Data Engineer at ADIB, Abu Dhabi, UAE.
 
 ## Achievements
 
-
--	Building a real-time streaming pipeline using Apache Kafka and Spark to ingest and process millions of rows per day from multiple sources, enabling faster and more accurate analytics and reporting.
-
--	I designed and built scalable data frameworks using Spark and Python. This reduced the data processing time by 80%, and the storage cost by 70% compared to the previous solution.
-
--	Developed an order processing module to faster process by 10 times.
--	Digitization of warehouse and classical store to the online store.
--	Graduated with Bachelor's Degree with fully funded Scholarships.
+- Building a real-time streaming pipeline using Apache Kafka and Spark to ingest and process millions of rows per day from multiple sources, enabling faster and more accurate analytics and reporting.
+- I designed and built scalable data frameworks using Spark and Python. This reduced the data processing time by 80%, and the storage cost by 70% compared to the previous solution.
+- Developed an order processing module to faster process by 10 times.
+- Digitization of warehouse and classical store to the online store.
+- Graduated with Bachelor's Degree with fully funded Scholarships.
 
 
 
