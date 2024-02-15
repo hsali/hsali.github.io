@@ -117,6 +117,29 @@ __Lead Data Engineer__, UAE
 - provide a comprehensive view of the customer
 - integrate with multiple systems to provide a single view of the customer
 
+### Bus On Time Performance
+- analyse different datasets to identify the on-time performance of buses.
+- identify the factors that affect the on-time performance of buses.
+- identify buses by route, time, and day.
+- build MicroStrategy dashboard describing buses by routes, day and time with on time performance.
+
+### Bus Fare Evasion
+- identify passengers who are evading fares.
+- descriptive dashboard microstrategy to describe the fare evasion by bus stop.
+
+### Travel Time Index
+-  inrix GPS data to calculate travel time index.
+- build microstrategy dashboard to describe travel time index by road.
+- Help TRA(Transport and Road Authority) to identify the road with high travel time index.
+
+### Before and Road Performance
+- 
+
+### First and Last Mile
+
+### Taxi Demand Prediction
+### Predict Parking Occupancy
+
 
 ## Education
 
@@ -128,5 +151,3 @@ __International Islamic University Islamabad, Pakistan.__
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
